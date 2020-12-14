@@ -6,13 +6,19 @@
 
         <title>My Portfolio</title>
 
+        <!-- Link to Stylesheet -->
+        <link rel="stylesheet" href="./style.css">
+
+        <!-- Google Fonts -->
+
         <!-- Bootstrap CDN -->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
     </head>
 
-        <!-- Navbar -->
     <body>
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+
+         <!-- Start Navbar -->
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <a class="navbar-brand" href="#">Andrew Breen</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -31,32 +37,61 @@
                 </ul>
             </div>
         </nav>
+        <!-- End Navbar -->
 
-            <!-- Header -->
         <main>
-            <header class="header">
-                <h2>Portfolio</h2>
-            </header>
-        
-            <!-- Portfolio Pictures -->
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-3">
-                        <img class="img img-thumbnail" src="http://placehold.it/350x350" alt="placeholder image">
+
+            <!-- Start Porfolio Pictures Container -->
+            <div class="container bg-primary">
+                    <!-- Header -->
+                    <header class="header">
+                        <h2>Portfolio</h2>
+                    </header>
+
+                    <!-- Portfolio Pictures -->
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <img class="img img-thumbnail" src="http://placehold.it/350x350" alt="placeholder image">
+                        </div>
+                        <div class="col-md-4">
+                            <img class="img img-thumbnail" src="http://placehold.it/350x350" alt="placeholder image">
+                        </div>
+                        <div class="col-md-4">
+                            <img class="img img-thumbnail" src="http://placehold.it/350x350" alt="placeholder image">
+                        </div>
                     </div>
-                    <div class="col-md-3">
-                        <img class="img img-thumbnail" src="http://placehold.it/350x350" alt="placeholder image">
                     </div>
-                    <div class="col-md-3">
-                        <img class="img img-thumbnail" src="http://placehold.it/350x350" alt="placeholder image">
-                    </div>
-                    <div class="col-md-3">
-                        <img class="img img-thumbnail" src="http://placehold.it/350x350" alt="placeholder image">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <img class="img img-thumbnail" src="http://placehold.it/350x350" alt="placeholder image">
+                            </div>
+                            <div class="col-md-4">
+                                <img class="img img-thumbnail" src="http://placehold.it/350x350" alt="placeholder image">
+                            </div>
+                            <div class="col-md-4">
+                                <img class="img img-thumbnail" src="http://placehold.it/350x350" alt="placeholder image">
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
-        </main>
+            <!-- End Portfolio Pictures Container -->
+
+        </main>   
         
+        <!-- Start Footer -->
+        <footer class="page-footer font-small bg-light">
+
+            <!-- Copyright -->
+            <div class="footer-copyright text-center py-3">&copy;2020 Copyright:
+                <a href="https://github.com/andrewbreen"> Andrew Breen</a>
+            </div>
+            <!-- Copyright -->
+
+        </footer>
+        <!-- End Footer -->
     </body>
 
 </html>
