@@ -9,6 +9,12 @@
     background-color: #07575B;
 }
 
+/* Placeholder image spacing (consistent for each page) */
+.img-thumbnail {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
 /* Header stylings for each page */
 .headerportfolio h1 {
     font-family: "Archivo Black";
