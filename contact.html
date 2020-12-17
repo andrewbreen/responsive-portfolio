@@ -6,32 +6,86 @@
 
         <title>Contact Info</title>
 
+        <!-- Link to Stylesheet -->
+        <link rel="stylesheet" href="./style.css">
+        <!-- Google Fonts -->
+        <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Overpass:wght@300&family=Roboto:wght@300&display=swap" rel="stylesheet">
         <!-- Bootstrap CDN -->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
     </head>
 
     <body>
-        <div class="container">
-            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-                <a class="navbar-brand" href="#">Andrew Breen</a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarNav">
-                    <ul class="navbar-nav">
-                        <li class="nav-item active">
-                            <a class="nav-link" href="./index.html">About</span></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="./portfolio.html">Portfolio</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="./contact.html">Contact </a>
-                        </li>
-                    </ul>
+        <!-- Start Nav -->
+        <nav class="navbar navbar-expand-lg navbar-dark">
+            <a class="navbar-brand" href="#">Andrew Breen</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="./index.html">About</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./portfolio.html">Portfolio</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./contact.html">Contact </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        <!-- End Nav -->
+
+        <main class="contact_main">
+
+            <!-- Start Contact Container -->
+
+            <!-- Header -->
+            <div class="container_contact">
+                <div class= "header_contact">
+                    <h1>Contact</h1>
                 </div>
-            </nav>
-        </div>
+
+                <!-- Contact Form Container (taken from W3schools) -->
+                <div class="container_contactform">
+                    <form action="action_page.php">
+                        <div class="col-md-3">
+                            <label for="name">Name</label>
+                            <input type="text" id="fname" name="fullname" placeholder="Name">
+                        </div>
+                        <div class="col-md-3">
+                            <label for="email">Email</label>
+                            <input type="text" id="email" name="lastname" placeholder="Email">
+                        </div>
+                        <div class="col-md-3">
+                            <label for="subject">Message</label>
+                            <textarea id="subject" name="message" placeholder="Message" style="height:200px"></textarea>
+                        </div>
+                        <div class="col-md-3">
+                            <input type="submit" value="Submit">
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+                <!-- End Contact Form Container -->
+
+        </main>   
+
+            <!-- Start Footer -->
+        <footer class="footer page-footer text-white font-small">
+
+            <!-- Copyright -->
+            <div class="footer-copyright text-center py-3">&copy;2020 Copyright:
+                <a href="https://github.com/andrewbreen"> Andrew Breen</a>
+            </div>
+            <!-- Copyright -->
+
+        </footer>
+        <!-- End Footer -->
+
+
     </body>
 
 </html>
