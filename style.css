@@ -1,3 +1,15 @@
+/* Navbar Stylings (consistent for each page) */
+.navbar {
+    background-color: #07575B;
+    color: #C4DFE6;
+}
+
+/* Footer Stylings (consistent for each page) */
+.footer {
+    background-color: #07575B;
+}
+
+/* Header stylings for each page */
 .headerportfolio h1 {
     font-family: "Archivo Black";
     padding-top: 10px;
@@ -15,12 +27,23 @@
     padding-top: 10px;
     color: #66A5AD;
 }
-
-.container .row .col-md-4 .img-thumbnail {
-    margin-top: 10px;
-    margin-bottom: 20px;
-}
  
+/* Content container for Portfolio page */
+.containerportfolio {
+    padding-bottom: 10px;
+}
+
+/* Content container for About Me page */
+.containeraboutme {
+    padding-bottom: 10px;
+}
+
+/* Main container of the About Me page  */
+.index_main {
+    background-color: #C4DFE6;
+}
+
+/* Setting unique background image for Portfolio page */
 .portfoliomain {
     background: url(./assets/portfolio-background.png) no-repeat center center fixed;
     background-size: cover;
@@ -28,26 +51,6 @@
     overflow: hidden;
     }
 
-.containerportfolio {
-    padding-bottom: 10px;
-}
-
-.containeraboutme {
-    padding-bottom: 10px;
-}
-
-.index_main {
-    background-color: #C4DFE6;
-}
-
-.navbar {
-    background-color: #07575B;
-    color: #C4DFE6;
-}
-
-.footer {
-    background-color: #07575B;
-}
 
 /* Contact Form Stylings (taken from W3schoools)
 Style inputs with type="text", select elements and textareas */
