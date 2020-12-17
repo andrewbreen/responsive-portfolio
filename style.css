@@ -1,7 +1,13 @@
-.header h1 {
+.headerportfolio h1 {
     font-family: "Archivo Black";
-    color:#fff;
     padding-top: 10px;
+    color: #C4DFE6;
+}
+
+.headerindex h1 {
+    font-family: "Archivo Black";
+    padding-top: 10px;
+    color: #66A5AD;
 }
 
 .container .row .col-md-4 .img-thumbnail {
@@ -17,20 +23,20 @@
     }
 
 .containerportfolio {
-    margin-bottom: 20px;
+    padding-bottom: 10px;
 }
 
 .containeraboutme {
-    color: #fff;
+    padding-bottom: 10px;
 }
 
 .indexmain {
-    background-color: #66A5AD;
+    background-color: #C4DFE6;
 }
 
 .navbar {
     background-color: #07575B;
-    color: #fff;
+    color: #C4DFE6;
 }
 
 .footer {
