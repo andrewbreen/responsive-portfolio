@@ -1,0 +1,95 @@
+/* Navbar Stylings (consistent for each page) */
+.navbar {
+    background-color: #07575B;
+    color: #C4DFE6;
+}
+
+/* Footer Stylings (consistent for each page) */
+.footer {
+    background-color: #07575B;
+}
+
+/* Placeholder image spacing (consistent for each page) */
+.img-fluid {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+/* Header stylings for each page */
+.headerportfolio h1 {
+    font-family: "Archivo Black";
+    padding-top: 10px;
+    color: #C4DFE6;
+}
+
+.headerindex h1 {
+    font-family: "Archivo Black";
+    padding-top: 10px;
+    color: #66A5AD;
+}
+
+.headercontact h1 {
+    font-family: "Archivo Black";
+    padding-top: 10px;
+    color: #66A5AD;
+}
+ 
+/* Content container for Portfolio page */
+.containerportfolio {
+    padding-bottom: 10px;
+}
+
+/* Content container for About Me page */
+.containeraboutme {
+    padding-bottom: 10px;
+}
+
+/* Main container of the About Me page  */
+.indexmain {
+    background-color: #C4DFE6;
+}
+
+/* Setting unique background image for Portfolio page */
+.portfoliomain {
+    background: url(./images/portfolio-background.png) no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+    }
+
+
+/* Contact Form Stylings (taken from W3schoools)
+Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */ 
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+  }
+  
+  /* Style the submit button with a specific background color etc */
+  input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* When moving the mouse over the submit button, add a darker green color */
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  /* Add a background color and some padding around the form */
+  .containercontact {
+    border-radius: 5px;
+    background-color: #C4DFE6;
+    padding-bottom: 25px;
+  }
+
