@@ -10,7 +10,7 @@
 }
 
 /* Placeholder image spacing (consistent for each page) */
-.img-thumbnail {
+.img-fluid {
     margin-bottom: 10px;
     margin-top: 10px;
 }
