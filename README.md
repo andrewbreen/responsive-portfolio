@@ -4,7 +4,7 @@
 
 * [Project-Description](#project-description)
 * [Installation](#installation)
-* [Usage](#credits)
+* [Usage](#usage)
 * [Mock-Up](#mock-up)
 * [Credits](#credits)
 * [Tests](#tests)
