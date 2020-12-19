@@ -48,3 +48,15 @@ The purpose of this assignment was for me to understand how to create a mobile-f
 
 The following images shows the web application's appearance and functionality:
 
+![portfolio screenshot 1](./assets/images/portfolio_1.png)
+
+![portfolio screenshot 2](./assets/images/portfolio_2.png)
+
+![about me screenshot 1](./assets/images/about_1.png)
+
+![about me screenshot 2](./assets/images/about_2.png)
+
+![contact screenshot 1](./assets/images/contact_1.png)
+
+![contact screenshot 2](./assets/images/contact_2.png)
+
