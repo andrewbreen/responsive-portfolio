@@ -46,7 +46,7 @@ The purpose of this assignment was for me to understand how to create a mobile-f
 
 ## Mock Up
 
-The following images shows the web application's appearance and functionality:
+Note: Since I am new to web development, I was only able to complete the About page with my own information. Currently, I only have one other repository that I would put in a portfolio page and it looked a little bland with just one image. So for now, I'm going to leave the placeholder images in and as I complete more projects I will update the page. The following images shows the web application's appearance and functionality:
 
 ![portfolio screenshot 1](./assets/images/portfolio_1.png)
 
@@ -60,3 +60,14 @@ The following images shows the web application's appearance and functionality:
 
 ![contact screenshot 2](./assets/images/contact_2.png)
 
+## Credits
+
+A lot of the knowledge on how to do this assigment came from class instruction, but I also consulted W3 schools a lot for this project. I used [W3 Schools'](https://www.w3schools.com/howto/howto_css_contact_form.asp) article on how to create a contact form, we well as [W3 Schools'](https://www.w3schools.com/bootstrap/bootstrap_navbar.asp) article on how to create a navbar using Bootstrap. Also, [Canva](https://www.canva.com/learn/100-color-combinations/) was a great resource when I was choosing a color scheme. 
+
+## Tests
+
+To test my html and css files, I used W3C's [Markup Validation Service](https://validator.w3.org/#validate_by_input) and their [CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input). These services are free and easy to use. To use both, you simply copy and paste your code into the respective input boxes. 
+
+## License
+
+Licensed under the [MIT](./assets/LICENSE.txt) license.
