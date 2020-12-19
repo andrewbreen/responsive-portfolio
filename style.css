@@ -28,7 +28,7 @@
     color: #66A5AD;
 }
 
-.header_contact h1 {
+.headercontact h1 {
     font-family: "Archivo Black";
     padding-top: 10px;
     color: #66A5AD;
@@ -45,7 +45,7 @@
 }
 
 /* Main container of the About Me page  */
-.index_main {
+.indexmain {
     background-color: #C4DFE6;
 }
 
@@ -87,7 +87,7 @@ input[type=text], select, textarea {
   }
   
   /* Add a background color and some padding around the form */
-  .container_contact {
+  .containercontact {
     border-radius: 5px;
     background-color: #C4DFE6;
     padding-bottom: 25px;
