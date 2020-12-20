@@ -1,15 +1,5 @@
 # Responsive-Portfolio
 
-## Table of Contents 
-
-* [Project-Description](#project-description)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Mock-Up](#mock-up)
-* [Credits](#credits)
-* [Tests](#tests)
-* [License](#license)
-
 ## Project-Description
 
 This project was a homework assignment designed to simulate a client asking me to create a mobile-first application or add responsive design to an existing application. In this case, I was tasked with creating a mobile responsive portfolio using the Bootstrap CSS Framework. The directions given to me by my instructors were as follows:
@@ -56,19 +46,8 @@ The purpose of this assignment was for me to understand how to create a mobile-f
 
 ## Mock-Up
 
-Note: Since I am new to web development, I was only able to complete the About page with my own information. Currently, I only have one other repository that I would put in a portfolio page and it looked a little bland with just one image. So for now, I'm going to leave the placeholder images in and as I complete more projects I will update the page. The following images shows the web application's appearance and functionality:
+Note: Since I am new to web development, I was only able to complete the About page with my own information. Currently, I only have one other repository that I would put in a portfolio page and it looked a little bland with just one image. So for now, I'm going to leave the placeholder images in and as I complete more projects I will update the page. To view screenshots go to the [assets](./assets/images) folder.
 
-![portfolio screenshot 1](./assets/images/portfolio_1.png)
-
-![portfolio screenshot 2](./assets/images/portfolio_2.png)
-
-![about me screenshot 1](./assets/images/about_1.png)
-
-![about me screenshot 2](./assets/images/about_2.png)
-
-![contact screenshot 1](./assets/images/contact_1.png)
-
-![contact screenshot 2](./assets/images/contact_2.png)
 
 ## Credits
 
