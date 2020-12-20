@@ -50,7 +50,7 @@ Note: Since I am new to web development, I was only able to complete the About p
 
 ![portfolio screenshot 1](./assets/images/portfolio_1.png)
 
-![about me screenshot 1](./assets/images/about_1.png)
+![about me screenshot 1](./assets/images/aboutme_1.png)
 
 ![contact screenshot 1](./assets/images/contact-responsive1.png)
 
