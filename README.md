@@ -48,7 +48,7 @@ The purpose of this assignment was for me to understand how to create a mobile-f
 
 Note: Since I am new to web development, I was only able to complete the About page with my own information. Currently, I only have one other repository that I would put in a portfolio page and it looked a little bland with just one image. So for now, I'm going to leave the placeholder images in and as I complete more projects I will update the page. Below are screenshots of the responsive view for each page. To view how the application looks on a mobile device go to the [assets](./assets/images) folder.
 
-![portfolio screenshot 1](./assets/images/portfolio-responsiveview.png)
+![portfolio screenshot 1](./assets/images/portfolio_1.png)
 
 ![about me screenshot 1](./assets/images/about_1.png)
 
