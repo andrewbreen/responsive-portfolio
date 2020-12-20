@@ -1,7 +1,9 @@
 /* Navbar Stylings (consistent for each page) */
-.navbar {
+nav.navbar {
     background-color: #07575B;
-    color: #C4DFE6;
+}
+.navbar a {
+    color:#C4DFE6;
 }
 
 /* Footer Stylings (consistent for each page) */
