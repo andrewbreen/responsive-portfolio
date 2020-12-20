@@ -52,7 +52,7 @@ Note: Since I am new to web development, I was only able to complete the About p
 
 ![about me screenshot 1](./assets/images/about_1.png)
 
-![contact screenshot 1](./assets/images/contact_1.png)
+![contact screenshot 1](./assets/images/contact-responsive.png)
 
 
 ## Credits
